@@ -3,16 +3,19 @@
     {
       "age": 20,
       "other": "foo",
+      "tags": ["a", "b", "c"],
       "name": "Bob"
     },
     {
       "age": 25,
       "other": "bar",
+      "tags": ["d", "e", "f"],
       "name": "Fred"
     },
     {
       "age": 30,
       "other": "baz",
+      "tags": ["g", "h", "i"],
       "name": "George"
     }
   ]
